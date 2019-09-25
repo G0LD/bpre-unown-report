@@ -45,6 +45,9 @@ extern const u8 gText_Report3[];
 extern const u8 gText_Report4[];
 extern const u8 gText_Report5[];
 extern const u8 gText_Report6[];
+extern const u8 gText_Report7[];
+extern const u8 gText_Report8[];
+extern const u8 gText_Report9[];
 
 static const u8 *UnownStrings[] = {
     gText_UnownA, gText_UnownB, gText_UnownC, gText_UnownD, gText_UnownE,
@@ -62,6 +65,9 @@ static const struct ReportPage ReportPages[] = {
     { gText_Report4, FLAG_REPORT4 },
     { gText_Report5, FLAG_REPORT5 },
     { gText_Report6, FLAG_REPORT6 },
+    { gText_Report7, FLAG_REPORT7 },
+    { gText_Report8, FLAG_REPORT8 },
+    { gText_Report9, FLAG_REPORT9 },
 };
 
 #define LAST_PAGE (4 + (sizeof(ReportPages) / sizeof(struct ReportPage)))
