@@ -37,3 +37,6 @@ const u8 gText_Report3[] = _("Presented the Rainbow Wing to\nthe statues. The he
 const u8 gText_Report4[] = _("The red Pokémon is called Entei.\nIt hid in another chamber in\nthe Ikos Ruins, but I coaxed it\nout by approaching with a team\nof Unown spelling its name!\nThe others will be hard to find.");
 const u8 gText_Report5[] = _("Tracked the other two Pokémon\ndown. Suicune and Raikou are the\nnames of the blue and yellow\nPokémon. What could the link be\nbetween these three Pokémon,\nHo-Oh, and the Unown?");
 const u8 gText_Report6[] = _("Will was pleased to learn of\nthe secrets of the Ikos Ruins.\nWe agreed to have a rematch in\nthe depths of the Ferre Ruins,\nanother place he says he finds\nfascinating. This was fun!");
+const u8 gText_Report7[] = _("Bottom Text 1\nbottom text 2\nbottom text 3\nbottom text 4\nbottom text 5\nbottom text 6");
+const u8 gText_Report8[] = _("Bottom Text 7\nbottom text 8\nbottom text 9\nbottom text A\nbottom text B\nbottom text C");
+const u8 gText_Report9[] = _("Bottom Text D\nbottom text E\nbottom text F\nbottom text 10\nbottom text 11\nbottom text 12");
